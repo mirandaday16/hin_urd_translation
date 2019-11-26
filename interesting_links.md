@@ -1,5 +1,4 @@
 How-to Information:
-- https://www.youtube.com/watch?v=z71azOGJQRo&list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW&index=25
 - https://www.ijccr.com/November2012/3.pdf
 
 Corpus Resources:
