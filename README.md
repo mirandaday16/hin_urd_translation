@@ -1,8 +1,10 @@
 # hin_urd_translation
 A translation app for EN&lt;>UR, with HI as a pivot language
-----
-##To-Do List
-###(keep updated!)
+
+-----
+
+## To-Do List
+### (keep updated!)
 - Research corpus building
 
 ----
