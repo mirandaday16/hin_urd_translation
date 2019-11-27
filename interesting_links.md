@@ -9,6 +9,9 @@ Corpus Resources:
 
 Corpus-Building Sources:
 - https://www.rekhta.org/authors/premchand/stories
+- https://www.bbc.com/urdu
+- https://www.bbc.com/hindi
+- Wikipedia articles that appear in both languages?
 
 On Hindi and Urdu:
 - http://revista.abralic.org.br/index.php/revista/article/view/379/628
