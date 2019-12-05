@@ -1,6 +1,7 @@
 How-to Information:
-- https://www.youtube.com/watch?v=z71azOGJQRo&list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW&index=25
 - https://www.ijccr.com/November2012/3.pdf
+- https://www.youtube.com/watch?v=WH7EQFbuIrI
+- https://cloud.google.com/translate/docs/
 
 Corpus Resources:
 - https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1255&lang=en
@@ -9,6 +10,9 @@ Corpus Resources:
 
 Corpus-Building Sources:
 - https://www.rekhta.org/authors/premchand/stories
+- https://www.bbc.com/urdu
+- https://www.bbc.com/hindi
+- Wikipedia articles that appear in both languages?
 
 On Hindi and Urdu:
 - http://revista.abralic.org.br/index.php/revista/article/view/379/628
