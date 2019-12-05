@@ -4,7 +4,8 @@
 -----
 
 ### To-Do List (keep updated!)
-- Research corpus building
+- Find more sources for courpus-building
+- Learn to clean scraped files
 
 ----
 ### Bibliography
