@@ -1,0 +1,149 @@
+
+
+
+
+
+
+
+
+
+کفن
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        var startDt = Date.now();
+        var userEvts = [];
+        var currentLanguage = '3';
+        // init values
+       var requestPath ='/stories/kafan-premchand-stories';
+        var lang=3;
+        var rWorld= 'https://world.rekhta.org';
+        var cardsUrl = 'https://rekhtacards.azureedge.net';
+        var bundleurls={lg:'https://rekhtacdn.azureedge.net/contents/lgmdsm_ur?v=KboL2t1xj5Nok-78l130syBgIsrmEaNUY7i9vohWIMw1', md:'https://rekhtacdn.azureedge.net/contents/mdsm_ur?v=q6jI7eka22IKu36KeLasD7Y1-JsPtRt68PcUGw594Jc1', sm:'https://rekhtacdn.azureedge.net/contents/sm_ur?v=Rp0j-YKTOe5ROkBw0LpPmGyPA6VS7hrLZ6fhtSL_72I1' };
+        var favAddText = 'پسندیدہ انتخاب میں شامل کیجیے';
+        var favRemText = 'اپنے پسندیدہ زمرے سے ہٹائیے';
+        var websiteId =1;
+        var maxAccessForRegistration = '5';
+
+    
+
+
+
+
+
+
+
+
+
+
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-37442234-1', 'auto');
+                ga('send', 'pageview');
+                function setGAUser(userId) {
+                    ga('set', 'userId', userId); // Set the user ID using signed-in user_id.
+                    gtag('set', { 'user_id': userId }); // Set the user ID using signed-in user_id
+                }
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+کفن
+
+پریم چند
+
+
+
+
+
+
+
+
+
+
+
+
+کفن
+پریم چند
+
+
+
+
+
+
+
+
+
+
+MORE BY پریم چند
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+جھونپڑے کے دروازے پر باپ اور بیٹا دونوں ایک بجھے ہوئے الاؤ کے سامنے خاموش بیٹھے ہوئے تھے اور اندر بیٹے کی نوجوان بیوی بدھیا دردِ زہ سے پچھاڑیں کھا رہی تھی اور رہ رہ کر اس کے منہ سے ایسی دلخراش صدا نکلتی تھی کہ دونوں کلیجہ تھام لیتے تھے۔ جاڑوں کی رات تھی، فضا سناٹے میں غرق۔ سارا گاؤں تاریکی میں جذب ہو گیا تھا۔ گھیسو نے کہا، ’’معلوم ہوتا ہے بچے گی نہیں۔ سار ا دن تڑپتے ہو گیا، جا دیکھ تو آ۔‘‘ مادھو دردناک لہجے میں بولا، ’’مرنا ہی ہے تو جلدی مر کیوں نہیں جاتی۔ دیکھ کر کیا آؤں۔‘‘ ’’تو بڑا بیدرد ہے بے! سال بھر جس کے ساتھ جندگانی کا سکھ بھوگا اسی کے ساتھ اتنی بے وپھائی۔‘‘ ’’تو مجھ سے تو اس کا تڑپنا اور ہاتھ پاؤں پٹکنا نہیں دیکھا جا تا۔‘‘ چماروں کا کنبہ تھا اور سارے گاؤں میں بدنام۔ گھیسو ایک دن کام کرتا تو تین دن آرام، مادھو اتنا کام چور تھا کہ گھنٹے بھر کام کرتا تو گھنٹے بھر چلم پیتا۔ اس لئے اسے کوئی رکھتا ہی نہ تھا۔ گھر میں مٹھی بھر اناج بھی موجود ہو تو ان کے لئے کام کرنے کی قسم تھی۔ جب دو ایک فاقے ہو جاتے تو گھیسو درختوں پر چڑھ کر لکڑی توڑ لاتا اور مادھو بازار سے بیچ لاتا۔

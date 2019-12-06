@@ -1,0 +1,149 @@
+
+
+
+
+
+
+
+
+
+कफ़न
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        var startDt = Date.now();
+        var userEvts = [];
+        var currentLanguage = '2';
+        // init values
+       var requestPath ='/stories/kafan-premchand-stories';
+        var lang=2;
+        var rWorld= 'https://world.rekhta.org';
+        var cardsUrl = 'https://rekhtacards.azureedge.net';
+        var bundleurls={lg:'https://rekhtacdn.azureedge.net/contents/lgmdsm_hi?v=-L5ep4634VcSL6cO2GzSlIvyjrmViR6aDK8zgbx3ccE1', md:'https://rekhtacdn.azureedge.net/contents/mdsm_hi?v=YGq8oZ0R2UEe3NRxJ58l95jUrad9OjnDFnUKoJcEdf01', sm:'https://rekhtacdn.azureedge.net/contents/sm_hi?v=tRW3OHrBaMEXVfRPRREqK8uO66nyNmFTwIsPaYWrHEY1' };
+        var favAddText = 'अपने फ़ेवरेट में शामिल कीजिए';
+        var favRemText = 'फेवरेट से हटाइए';
+        var websiteId =1;
+        var maxAccessForRegistration = '5';
+
+    
+
+
+
+
+
+
+
+
+
+
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-37442234-1', 'auto');
+                ga('send', 'pageview');
+                function setGAUser(userId) {
+                    ga('set', 'userId', userId); // Set the user ID using signed-in user_id.
+                    gtag('set', { 'user_id': userId }); // Set the user ID using signed-in user_id
+                }
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+कफ़न
+
+प्रेमचंद
+
+
+
+
+
+
+
+
+
+
+
+
+कफ़न
+प्रेमचंद
+
+
+
+
+
+
+
+
+
+
+MORE BY प्रेमचंद
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+झोंपड़े के दरवाज़े पर बाप और बेटा दोनों एक बुझे हुए अलाव के सामने ख़ामोश बैठे हुए थे और अन्दर बेटे की नौजवान बीवी बुधिया दर्द-ए-ज़ह से पछाड़ें खा रही थी और रह रह कर उसके मुँह से ऐसी दिल-ख़राश सदा निकलती थी कि दोनों कलेजा थाम लेते थे। जाड़ों की रात थी, फ़ज़ा सन्नाटे में ग़र्क़, सारा गाँव तारीकी में जज़्ब हो गया था। घीसू ने कहा, "मालूम होता है बचेगी नहीं। सारा दिन तड़पते हो गया, जा देख तो आ।" माधव दर्दनाक लहजे में बोला, "मरना ही है तो जल्दी मर क्यूँ नहीं जाती। देख कर क्या आऊं।" "तू बड़ा बे-दर्द है बे! साल भर जिसके सातन जिंदगानी का सुख भोगा उसी के साथ इतनी बेवफाई।" "तो मुझ से तो उसका तड़पना और हाथ पाँव पटकना नहीं देखा जाता।" चमारों का कुम्बा था और सारे गाँव में बदनाम। घीसू एक दिन काम करता तो तीन दिन आराम, माधव इतना काम चोर था कि घंटे भर काम करता तो घंटे भर चिलम पीता। इसलिए उसे कोई रखता ही न था। घर में मुट्ठी भर अनाज भी मौजूद हो तो उनके लिए काम करने की क़सम थी। जब दो एक फ़ाक़े हो जाते तो घीसू दरख़्तों पर चढ़ कर लकड़ी तोड़ लाता और माधव बाज़ार से बेच लाता और जब तक वो पैसे रहते, दोनों इधर उधर मारे मारे फिरते। जब फ़ाक़े की नौबत आ जाती तो फिर लकड़ियाँ तोड़ते या कोई मज़दूरी तलाश करते। गाँव में काम की कमी न थी। काश्तकारों का गाँव था। मेहनती आदमी के लिए पच्चास काम थे मगर उन दोनों को लोग उसी वक़्त बुलाते जब दो आदमियों से एक का काम पा कर भी क़नाअत कर लेने के सिवा और कोई चारा न होता। काश दोनों साधू होते तो उन्हें क़नाअत और तवक्कुल के लिए ज़ब्त-ए-नफ़्स की मुतलक़ ज़रूरत न होती। ये उनकी ख़ल्क़ी सिफ़त थी। अजीब ज़िंदगी थी उनकी। घर में मिट्टी के दो चार बर्तनों के सिवा कोई असासा नहीं। फटे चीथड़ों से अपनी उर्यानी को ढाँके हुए दुनिया की फ़िक़्रों से आज़ाद। क़र्ज़ से लदे हुए। गालियाँ भी खाते, मार भी खाते मगर कोई ग़म नहीं। मिस्कीन इतने कि वसूली की मुतलक़ उम्मीद न होने पर लोग उन्हें कुछ न कुछ क़र्ज़ दे देते थे। मटर या आलू की फ़सल में खेतों से मटर या आलू उखाड़ लाते और भून भून कर खाते या दिन में पाँच ईख तोड़ लाते और रात को चूसते।
